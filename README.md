@@ -1,3 +1,3 @@
-# GanttisPackage
+# Ganttis
 
-A description of this package.
+Gantt chart components for macOS and iOS development.

@@ -4,25 +4,20 @@
 import PackageDescription
 
 let package = Package(
-    name: "GanttisPackage",
+    name: "Ganttis",
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
-            name: "GanttisPackage",
-            targets: ["GanttisPackage"]),
+            name: "Ganttis",
+            targets: ["Ganttis"]),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
     ],
     targets: [
-        // Targets are the basic building blocks of a package. A target can define a module or a test suite.
-        // Targets can depend on other targets in this package, and on products in packages this package depends on.
-        .target(
-            name: "GanttisPackage",
-            dependencies: []),
-        .testTarget(
-            name: "GanttisPackageTests",
-            dependencies: ["GanttisPackage"]),
+        .binaryTarget(name: "Ganttis",
+                      url: "https://dlhsoft.com/Ganttis/packages/Ganttis.xcframework.zip",
+                      checksum: "3ac7ae4eacc407bf0f91efefb9fd59ff7adf6857022a71fa15d5cc8087fc6041"),
     ]
 )

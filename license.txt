@@ -1,0 +1,81 @@
+SOFTWARE LICENSE AGREEMENT
+
+This Software License Agreement (SLA) is a legal agreement between You (either an individual or an entity) and DLHSOFT SRL, Cluj-Napoca, Romania (DlhSoft) for the software that accompanies this SLA, which may include: binary executable files, library files, source code files, documentation, associated services, and/or other related items (Software).
+
+You agree to be bound by the terms of this SLA by installing, copying, or otherwise using the Software. If you do not agree, do not install, copy, or use the Software; you may return it to your place of purchase for a full refund, if applicable.
+
+
+Grant of License
+
+DlhSoft grants you the following rights provided that you comply with all terms of the SLA:
+
+Use the Software for testing purposes only. Without purchasing a separate Usage License, you are allowed to copy, install, access, display, and use the Software solely for testing purposes (limited by the reservation of rights and ownership terms described in the next section), for unlimited time, on a single computer that you own.
+
+However, until you would purchase a separate usage license and apply the appropriate License Code in your project, the Software may warn you periodically that it is licensed to be used for testing purposes only. To learn how to access and use the Software you should review the Documentation items installed with the Software or available online on DlhSoft Web site.
+
+Use the Software for personal and/or commercial purposes by Purchasing a Usage License. With a separately purchased Usage License and an associated installed License Code, you are allowed to copy, install, access, display, and use the Software for personal and/or commercial purposes (limited by the reservation of rights and ownership terms described in the next section), for unlimited time, on a limited or unlimited number of computers that you own (as defined by the purchased usage license type), and make it available to a limited or unlimited number of users (or developers, for component libraries), as defined by the purchased usage license type.
+
+Multiple usage license types, having different supplemental benefits, restrictions, and prices may be available. By purchasing a Usage License of a specific type you will obtain an associated License Code, indicating the licensee, restrictions such as a maximum number of users (or developers, for component libraries) that are allowed to access the Software, and any supplemental benefits (such as Software Source Code Files) if applicable. 
+
+To use the License Code in your project(s), follow the instructions obtained upon purchasing the Usage License.
+
+Use the Software Source Code Files included as a supplemental benefit with some available Usage License types for personal and/or commercial purposes. If you have purchased a usage license type that includes Software Source Code Files as a supplemental benefit for the usage license, you are allowed to copy, access, display, modify, and use the Source Code Files for personal and/or commercial purposes (limited by the reservation of rights and ownership terms described in the next section), for unlimited time, on a limited or unlimited number of computers that you own (as defined by the purchased usage license type), and make it available to a limited or unlimited number of users (or developers, for component libraries), as defined by the purchased usage license type.
+
+
+Reservation of Rights and Ownership
+
+DlhSoft reserves all rights not expressly granted to you in this SLA. The Software is protected by copyright and other intellectual property laws and treaties. DlhSoft or its suppliers own the title, copyright, and other intellectual property rights of the Software.
+
+You are not allowed to redistribute the Software, or any portion of it, either separately or as part of a larger solution or application, to any third party.
+
+However, when and only if you have purchased a Usage License for the appropriate component library product from DlhSoft (as described above in the Grant of License section), you are allowed to redistribute the Software binary library files and/or similar binary files generated using the Software Source Code Files package, either modified or not (if you have received them as a supplemental benefit for the usage license type that you have purchased) as part of an application that you have developed referencing those binary library files, assuming also that you redistribute the application as a whole including the start-up executable file.
+
+Specifically, you are not allowed to develop nor redistribute development components, application modules, add-ons, or any other types of application parts that would include Software binary files or similar binary files generated based on the Source Code Files package, either modified or not (if you have received them as a supplemental benefit for the usage license type that you have purchased.)
+
+You are not allowed to redistribute the License Code associated to a purchased Usage License, either separately or as part of a larger solution or application, to any third party, except as within the binary code of an application that you have developed using the product.
+
+You may not reverse engineer, decompile, or disassemble the Software binary files, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+
+You are not allowed to develop and commercially obtain value for software packages similar to the DlhSoft Software, using the Software or any portion of it as a component or as a source item of such a package.
+
+You are not allowed to redistribute the Software Source Code Files, either modified or not, to any third party, if you have received them as a supplemental benefit for the usage license type that you have purchased.
+
+
+Consent to Use of Data
+
+You agree that DlhSoft may collect and use information gathered from you as part of the purchase process, if applicable, in relation to the Software. DlhSoft may use this information solely to contact you, if needed, in relation to the purchased product or to provide customized services or technologies to you, and will not disclose this information in a form that personally identifies you (unless obliged under the applicable law.)
+
+Also, you agree that DlhSoft may collect and use technical information gathered as part of any support services provided to you, if any, in relation to the Software. DlhSoft may use this information solely to improve its products or to provide customized services or technologies to you, and will not disclose this information in a form that personally identifies you (unless obliged under the applicable law.)
+
+
+Additional Software
+
+Beside the Software itself, this SLA applies to all supplements, updates, add-on components, services, and/or any other future items related to the Software that DlhSoft may make available to you after the date you have obtained your initial copy of the Software, unless other terms are provided along with that future item.
+
+DlhSoft reserves the right to discontinue any service made available to you through the use of the Software at any time in the future, with or without a notification to you.
+
+
+Not for Resale Software
+
+The Software is identified as "Not for Resale", and may not be sold or otherwise transferred for value, excepting the redistribution of Software binary library files in the conditions defined by the Grant of License and Reservation of Rights and Ownership sections above.
+
+
+Termination
+
+Without prejudice to any other rights, DlhSoft may terminate the SLA if you fail to comply with any of its terms. In such event, you must destroy all copies of the Software and all of its component parts.
+
+
+Guarantee
+
+The Software is designed and offered as general-purpose software, not for any user's particular purpose. You accept that no software is error free and you are strongly advised to back-up your files regularly.
+
+By purchasing a Usage License for the Software, you receive free support for installing and using the Software, and for fixing of any errors found by you to be part of the purchased Software, for a period of 90 (ninety) days.
+
+Besides the guarantee above, to the maximum extent permitted by applicable law and subject to the guarantee above, DlhSoft disclaims all warranties, conditions and other terms, either express or implied (whether by statute, common law, collaterally or otherwise) including but not limited to implied warranties of satisfactory quality and fitness for particular purpose with respect to the Software and the written materials that accompany the Software.
+
+To the maximum extent permitted by applicable law, DlhSoft and its suppliers shall not be liable for any damages whatsoever (including without limitation, damages for loss of business profits, business interruption, loss of business information or other pecuniary loss) arising out of the use or inability to use the Software, even if DlhSoft has been advised of the possibility of such damages. In any case the entire liability of DlhSoft under any provision of this Agreement shall be limited to the amount actually paid by you for the Software.
+
+
+Contact
+
+Should you have any question concerning this SLA, or if you desire to contact DlhSoft for any reason related to the Software or SLA, please use the Contact Page of the DlhSoft Web site: http://DlhSoft.com/Contact.

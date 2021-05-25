@@ -17,7 +17,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "Ganttis",
-                      url: "https://dlhsoft.com/Ganttis/packages/Ganttis.xcframework.2.1.10.zip",
-                      checksum: "dc4a0c9908074ca9ca6822f9c6a92c95180dd90ddbe1b88aff639e17b86b98be"),
+                      url: "https://dlhsoft.com/Ganttis/packages/Ganttis.xcframework.2.1.11.zip",
+                      checksum: "f6634de8a62e1d780eb194d95ed4d4af1eeb4d08e3981ba3d912be898479d2c2"),
     ]
 )

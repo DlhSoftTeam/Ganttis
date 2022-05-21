@@ -8,6 +8,8 @@ Follow these steps to reference the package and use Ganttis components from your
 3. Specify this URL and allow the framework to download: *https://github.com/DlhSoftTeam/Ganttis*
 5. Import *Ganttis* and/or *GanttisTouch modules* in your code and use the available components as usual (see [technical documentation](https://dlhsoft.com/ganttis/docs/manual.pdf)).
 
+See also: [Ganttis samples](https://github.com/DlhsoftTeam/GanttisSamples)
+
 ## Screenshots
 
 ### macOS
